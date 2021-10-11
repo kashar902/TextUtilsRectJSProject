@@ -1,0 +1,14 @@
+    <nav className="navBar">
+      <ul>Home</ul>
+      <ul>About Us</ul>
+      <ul>Gallery</ul>
+      <ul>Contact US</ul>
+    </nav>
+    <h1>hello {name} your nummber is {num} </h1>  
+    <div className="imagee">
+      <img src={lo} alt="logo" />
+    </div>
+
+    <div className="container">
+      The Weather is Lovely
+    </div>
