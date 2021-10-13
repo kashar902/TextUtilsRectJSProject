@@ -8,7 +8,8 @@ export default function Footer() {
     return (
         <footer className='bg-dark text-light py-3' style={footerStyle}>
             <p className='text-center'>
-                Copyright & Copy; TextUtils.com <br /> Ashar Ullah Khan 
+            © 2021 Ashar Ullah Khan. <br />
+             All Rights Reserved | Terms and Conditions
             </p>
         </footer>
     )

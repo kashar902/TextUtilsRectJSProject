@@ -40,7 +40,7 @@ export default function About(props) {
                     <div className="accordion-item" style={{ color: props.mode === 'light' ? '#000' : 'white' }}>
                         <h2 className="accordion-header" id="he00adingOne">
                             <button className="accordion-button" style={{ color: props.mode === 'light' ? '#000' : 'white', backgroundColor: props.mode === 'light' ? 'white' : '#000' }} type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                ABOUT OWNER
+                                What is TextUtils? 
                             </button>
                         </h2>
                         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
